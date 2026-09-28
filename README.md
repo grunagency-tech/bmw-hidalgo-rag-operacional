@@ -1,6 +1,6 @@
 # BMW Hidalgo — RAG Operacional
 
-> Caso demostrativo de portafolio creado por **Grun Agency Tech**. Todos los nombres, contratos, facturas, inventario y documentos incluidos son ficticios. Este proyecto no está afiliado, patrocinado ni aprobado por BMW AG, BMW Group ni ninguna distribuidora real.
+> Caso demostrativo creado por **Grun Tech**. Todos los nombres, contratos, facturas, inventario y documentos incluidos son ficticios.
 
 Una interfaz de chat que convierte documentos operativos en una base de conocimiento consultable. El asistente encuentra evidencia relevante en archivos y datos estructurados, y redacta respuestas trazables en español.
 
