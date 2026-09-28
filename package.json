@@ -1,0 +1,29 @@
+{
+  "name": "bmw-hidalgo-rag-operacional",
+  "description": "Caso demostrativo de un RAG operacional para BMW Hidalgo.",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grunagency-tech/bmw-hidalgo-rag-operacional.git"
+  },
+  "keywords": [
+    "rag",
+    "insforge",
+    "pgvector",
+    "openai",
+    "portfolio"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@insforge/sdk": "latest"
+  },
+  "devDependencies": {
+    "vite": "latest"
+  }
+}

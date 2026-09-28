@@ -1,0 +1,27 @@
+
+# Local configuration, credentials and agent state
+.env
+.env.local
+.env.*.local
+.env.*.secret
+functions/.env
+functions/.env.local
+functions/.env.example
+node_modules
+dist
+.insforge
+.agent
+.agents
+.augment
+.claude
+.cline
+.github/copilot*
+.kilocode
+.qoder
+.qwen
+.roo
+.trae
+.windsurf
+
+# This file binds the local directory to a specific InsForge project.
+AGENTS.md
